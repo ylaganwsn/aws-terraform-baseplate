@@ -1,0 +1,10 @@
+variable "environment" {}
+variable "project_name" {}
+variable "public_subnet_1_id" {}
+variable "public_subnet_2_id" {}
+variable "vpc_id" {}
+variable "instance_type" {}
+variable "ec2_auto_scale_desired_capacity" {}
+variable "ec2_auto_scale_max_size" {}
+variable "ec2_auto_scale_min_size" {}
+variable "image_id" {}
